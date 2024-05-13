@@ -11,7 +11,7 @@ class Mahasiswa
         Mahasiswa()
         {
             nim = 0;
-            nama = "";
+            nama = "salmaa";
         };
         Mahasiswa(int iNim)
         {
@@ -50,5 +50,7 @@ int main()
     mhs2.cetak();
     mhs3.cetak();
     mhs4.cetak();
+
+    return 0;
     
 }
